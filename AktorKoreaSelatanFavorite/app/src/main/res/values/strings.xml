@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aktor Korea Selatan Favorite</string>
+    <string name="actor">Aktor</string>
+    <string name="detail">Detail</string>
+    <string name="agensi">Agensi</string>
+    <string name="judul_film">judul_film</string>
+    <string name="film">film</string>
+</resources>
